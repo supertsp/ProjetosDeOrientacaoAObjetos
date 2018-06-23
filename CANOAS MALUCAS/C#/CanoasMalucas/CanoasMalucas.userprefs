@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="CanoasMalucas\CanoasMalucas.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CanoasMalucas\Jogador.cs">
+    <Files>
+      <File FileName="CanoasMalucas\Program.cs" Line="4" Column="8" />
+      <File FileName="CanoasMalucas\Canoa.cs" Line="54" Column="3" />
+      <File FileName="CanoasMalucas\Rio.cs" Line="90" Column="3" />
+      <File FileName="CanoasMalucas\Jogador.cs" Line="40" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

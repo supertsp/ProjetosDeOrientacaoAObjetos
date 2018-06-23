@@ -1,0 +1,33 @@
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.deps.json
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.runtimeconfig.json
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.runtimeconfig.dev.json
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.dll
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.pdb
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.csprojResolveAssemblyReference.cache
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.AssemblyInfo.cs
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.dll
+C:\Users\tiago\Desktop\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.pdb
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.deps.json
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.runtimeconfig.json
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.runtimeconfig.dev.json
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.dll
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.pdb
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.csprojResolveAssemblyReference.cache
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.AssemblyInfo.cs
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.dll
+C:\Users\tiago\Desktop\UnityProjects\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.pdb
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.deps.json
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.runtimeconfig.json
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.runtimeconfig.dev.json
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.dll
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\bin\Debug\netcoreapp2.0\Principal.pdb
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.csprojAssemblyReference.cache
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.AssemblyInfo.cs
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.dll
+C:\Users\tiago\Desktop\Documentos Etecs\AULAS\##PROJETOS\ADIVINHAR PALAVRAS\c#\AdivinharPalavras\Principal\obj\Debug\netcoreapp2.0\Principal.pdb

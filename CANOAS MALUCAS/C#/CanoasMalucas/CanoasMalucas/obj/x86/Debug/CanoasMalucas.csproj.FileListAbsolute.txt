@@ -1,0 +1,6 @@
+C:\Users\tiago\Desktop\UnityProjects\VisualStudioProjects\CanoasMalucas\CanoasMalucas\bin\Debug\CanoasMalucas.exe
+C:\Users\tiago\Desktop\UnityProjects\VisualStudioProjects\CanoasMalucas\CanoasMalucas\bin\Debug\CanoasMalucas.pdb
+C:\Users\tiago\Desktop\UnityProjects\VisualStudioProjects\CanoasMalucas\CanoasMalucas\obj\x86\Debug\CanoasMalucas.csprojResolveAssemblyReference.cache
+C:\Users\tiago\Desktop\UnityProjects\VisualStudioProjects\CanoasMalucas\CanoasMalucas\obj\x86\Debug\CanoasMalucas.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\UnityProjects\VisualStudioProjects\CanoasMalucas\CanoasMalucas\obj\x86\Debug\CanoasMalucas.exe
+C:\Users\tiago\Desktop\UnityProjects\VisualStudioProjects\CanoasMalucas\CanoasMalucas\obj\x86\Debug\CanoasMalucas.pdb

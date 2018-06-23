@@ -1,0 +1,7 @@
+[28.5.2018  10:52:42  channel=debug] Programm beginnt
+Exception in thread "main" java.lang.ExceptionInInitializerError
+	at projeto.Play.main(Play.java:25)
+Caused by: java.lang.NullPointerException
+	at jcurses.system.Toolkit.getLibraryPath(Toolkit.java:111)
+	at jcurses.system.Toolkit.<clinit>(Toolkit.java:37)
+	... 1 more
